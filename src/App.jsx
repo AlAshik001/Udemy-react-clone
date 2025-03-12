@@ -1,6 +1,6 @@
 
 
-import Navbar from "./component/navbar";
+import Navbar from "./component/Navbar";
 import Categories from "./component/Categories";
 import Sales from "./component/Sales";
 import Recomment from "./component/Recomment";
